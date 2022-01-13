@@ -1,4 +1,4 @@
-# ![DeveloPow](./brand/DeveloPow%20Dark.png)
+![DeveloPow](./brand/DeveloPow%20Dark.png)
 
 ## 👋 Halo Developer
 
